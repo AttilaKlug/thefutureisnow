@@ -6,7 +6,8 @@
       "userName": "hello",
 	  "password": "teszt",
 	  "firstName": "Attila",
-	  "lastName": "Klug"
+	  "lastName": "Klug",
+	  "picture": "picture1"
     }
   ],
   "Menu": [
@@ -26,11 +27,12 @@
 	"rev": 1,
 	"name": "Felhazsnálók",
 	"link": "users",
-	"icon": "image1"},
+	"icon": "image2"},
 	{"id": "2",
 	"rev": 1,
 	"name": "Kapcsolatok",
-	"link": "contacts"}
+	"link": "contacts",
+	"icon": "image3"}
 	]}
   ]
 }
