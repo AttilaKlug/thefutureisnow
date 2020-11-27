@@ -84,6 +84,15 @@
 		"senderDate": "2020-11-11T13:23:44",
 		"message": "Hol vagy? lemaradsz a buliról :D",
 		"read": false
+	},{
+		"id": "5",
+		"rev": 1,
+		"userId": "user0",
+		"senderId": "user9",
+		"senderName": "Allan breadly",
+		"senderDate": "2020-11-11T13:23:44",
+		"message": "Stipi stopi...",
+		"read": false
 	}],
 	"notification":{
 		"list": [
