@@ -1,38 +1,69 @@
 {
-  "user": [
-    {
-      "id": "1",
-	  "rev": 1,
-      "userName": "hello",
-	  "password": "teszt",
-	  "firstName": "Attila",
-	  "lastName": "Klug",
-	  "picture": "picture1"
-    }
-  ],
-  "Menu": [
-	{"id": "1",
-	"rev": 1,
-	"name": "Dashboard",
-	"link": "dashboard",
-	"icon": "image1",
-	"items": []},
-	{"id": "2",
-	"rev": 1,
-	"name": "Adminiszráció",
-	"link": "#",
-	"icon": "image1",
-	"items": [ {
-	"id": "1",
-	"rev": 1,
-	"name": "Felhazsnálók",
-	"link": "users",
-	"icon": "image2"},
-	{"id": "2",
-	"rev": 1,
-	"name": "Kapcsolatok",
-	"link": "contacts",
-	"icon": "image3"}
-	]}
-  ]
+	"user": [
+		{
+		  "id": "1",
+		  "rev": 1,
+		  "userName": "Attila",
+		  "password": "korte",
+		  "firstName": "Attila",
+		  "lastName": "Klug",
+		  "picture": "picture1"
+		},
+		{
+		  "id": "2",
+		  "rev": 1,
+		  "userName": "Lacus",
+		  "password": "korte",
+		  "firstName": "Laszlo",
+		  "lastName": "Klug",
+		  "picture": "picture2"
+		}
+	],
+	"Menu": [
+		{
+			"id": "1",
+			"rev": 1,
+			"name": "Dashboard",
+			"link": "dashboard",
+			"icon": "image1",
+			"items": []
+		},
+		{	"id": "2",
+			"rev": 1,
+			"name": "Adminiszráció",
+			"link": "#",
+			"icon": "image1",
+			"items": [{
+					"id": "1",
+					"rev": 1,
+					"name": "Felhazsnálók",
+					"link": "users",
+					"icon": "image2"
+					},
+					{"id": "2",
+					"rev": 1,
+					"name": "Kapcsolatok",
+					"link": "contacts",
+					"icon": "image3"
+					}]
+		}
+	],
+	"message":[{
+		"id": "1",
+		"rev": 1,
+		"userId": "1"
+		"senderId": "2",
+		"senderDate": "2020-11-11T13:23:44",
+		"message": "Hol vagy? lemaradsz a buliról :D",
+		"read": false
+	}],
+	"notification":{
+		"list": [
+			{"type": "MESSAGE", "count": 2},
+			{"type": "REQUEST", "count": 3},
+			{"type": "REPORT" , "count": 4}
+			],
+		"count" : 3
+	}
+	
 }
