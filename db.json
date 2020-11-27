@@ -51,7 +51,7 @@
 	"message":[{
 		"id": "1",
 		"rev": 1,
-		"userId": "1"
+		"userId": "1",
 		"senderId": "2",
 		"senderDate": "2020-11-11T13:23:44",
 		"message": "Hol vagy? lemaradsz a buliról :D",
