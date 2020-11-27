@@ -25,12 +25,12 @@
 	"id": "1",
 	"rev": 1,
 	"name": "Felhazsnálók",
-	"link": "users"},
-	"icon": "image1",
+	"link": "users",
+	"icon": "image1"},
 	{"id": "2",
 	"rev": 1,
 	"name": "Kapcsolatok",
-	"link": "contacts"}}
-	]
+	"link": "contacts"}
+	]}
   ]
 }
