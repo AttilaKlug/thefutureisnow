@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "id": "1",
+	  "rev": 1,
+      "userName": "hello",
+	  "password": "teszt",
+	  "firstName": "Attila",
+	  "lastName": "Klug",
+    }
+  ],
+  "Menu": [
+	{"id": "1",
+	"rev": 1,
+	"name": "Dashboard",
+	"link": "dashboard",
+	"icon": "image1",
+	"items": []},
+	{"id": "2",
+	"rev": 1,
+	"name": "Adminiszráció",
+	"link": "#",
+	"icon": "image1",
+	"items": [ {
+	"id": "1",
+	"rev": 1,
+	"name": "Felhazsnálók",
+	"link": "users"},
+	"icon": "image1",
+	{"id": "2",
+	"rev": 1,
+	"name": "Kapcsolatok",
+	"link": "contacts"}}
+	]
+  ]
+}
