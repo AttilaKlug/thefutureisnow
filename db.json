@@ -51,8 +51,36 @@
 	"message":[{
 		"id": "1",
 		"rev": 1,
-		"userId": "1",
+		"userId": "user1",
 		"senderId": "2",
+		"senderName": "Brad Diesel",
+		"senderDate": "2020-11-11T13:23:44",
+		"message": "Call me whenever you can...",
+		"read": false
+	},{
+		"id": "2",
+		"rev": 1,
+		"userId": "user8",
+		"senderId": "2",
+		"senderName": "John Pierce",
+		"senderDate": "2020-11-11T13:23:44",
+		"message": "I got your message bro",
+		"read": false
+	},{
+		"id": "3",
+		"rev": 1,
+		"userId": "user3",
+		"senderId": "2",
+		"senderName": "Nora Silvester",
+		"senderDate": "2020-11-11T13:23:44",
+		"message": "The subject goes here",
+		"read": false
+	},{
+		"id": "4",
+		"rev": 1,
+		"userId": "user6",
+		"senderId": "2",
+		"senderName": "Administrator",
 		"senderDate": "2020-11-11T13:23:44",
 		"message": "Hol vagy? lemaradsz a buliról :D",
 		"read": false
