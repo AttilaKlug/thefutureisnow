@@ -50,13 +50,21 @@
 					"link": "user",
 					"icon": "image2"
 					},
-					{"id": "2",
+					{"id": "3",
 					"rev": 1,
-					"name": "Kapcsolatok",
-					"link": "contact",
+					"name": "Szerepkörök",
+					"link": "szerep",
 					"icon": "image3"
 					}]
-		}
+		},
+		{
+			"id": "1",
+			"rev": 1,
+			"name": "Kapcsolatok",
+			"link": "contact",
+			"icon": "image1",
+			"items": []
+		},
 	],
 	"message":[{
 		"id": "1",
