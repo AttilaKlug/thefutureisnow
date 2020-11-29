@@ -55,7 +55,7 @@
 					"name": "Szerepkörök",
 					"link": "szerep",
 					"icon": "image3"
-					}];
+					}]
 		},
 		{
 			"id": "1",
@@ -64,7 +64,7 @@
 			"link": "contact",
 			"icon": "image1",
 			"items": []
-		},
+		}
 	],
 	"message":[{
 		"id": "1",
