@@ -105,9 +105,9 @@
 	}],
 	"notification":{
 		"list": [
-			{"type": "MESSAGE", "count": 1},
-			{"type": "REQUEST", "count": 2},
-			{"type": "REPORT" , "count": 15}
+			{"nType": "MESSAGE", "count": 1},
+			{"nType": "REQUEST", "count": 2},
+			{"nType": "REPORT" , "count": 15}
 			],
 		"count" : 18
 	}
