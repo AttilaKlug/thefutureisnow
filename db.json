@@ -46,7 +46,7 @@
 			"items": [{
 					"id": "1",
 					"rev": 1,
-					"name": "Felhazsnálók",
+					"name": "Felhasználók",
 					"link": "user",
 					"icon": "image2"
 					},
