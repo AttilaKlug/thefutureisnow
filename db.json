@@ -47,13 +47,13 @@
 					"id": "1",
 					"rev": 1,
 					"name": "Felhazsnálók",
-					"link": "users",
+					"link": "user",
 					"icon": "image2"
 					},
 					{"id": "2",
 					"rev": 1,
 					"name": "Kapcsolatok",
-					"link": "contacts",
+					"link": "contact",
 					"icon": "image3"
 					}]
 		}
