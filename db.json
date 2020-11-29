@@ -77,15 +77,6 @@
 		"message": "I got your message bro",
 		"read": false
 	},{
-		"id": "3",
-		"rev": 1,
-		"userId": "user0",
-		"senderId": "user3",
-		"senderName": "Nora Silvester",
-		"senderDate": "2020-11-11T13:23:44",
-		"message": "The subject goes here",
-		"read": false
-	},{
 		"id": "4",
 		"rev": 1,
 		"userId": "user0",
