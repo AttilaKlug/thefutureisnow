@@ -36,7 +36,13 @@
 			"name": "Dashboard",
 			"link": "dashboard",
 			"icon": "image1",
-			"items": []
+			"items": [{
+					"id": "11",
+					"rev": 1,
+					"name": "Dashboard",
+					"link": "dashboard",
+					"icon": "image1"
+					}]
 		},
 		{	"id": "2",
 			"rev": 1,
@@ -44,13 +50,13 @@
 			"link": "#",
 			"icon": "image1",
 			"items": [{
-					"id": "1",
+					"id": "21",
 					"rev": 1,
 					"name": "Felhasználók",
 					"link": "user",
 					"icon": "image2"
 					},
-					{"id": "3",
+					{"id": "22",
 					"rev": 1,
 					"name": "Szerepkörök",
 					"link": "szerep",
@@ -58,12 +64,18 @@
 					}]
 		},
 		{
-			"id": "1",
+			"id": "3",
 			"rev": 1,
 			"name": "Kapcsolatok",
-			"link": "contact",
+			"link": "#",
 			"icon": "image1",
-			"items": []
+			"items": [
+					{"id": "31",
+					"rev": 1,
+					"name": "Kapcsolatok",
+					"link": "contact",
+					"icon": "image3"
+					}]
 		}
 	],
 	"message":[{
