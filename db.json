@@ -36,6 +36,7 @@
 			"name": "Dashboard",
 			"link": "dashboard",
 			"icon": "image1",
+			"menuType": "CONFIG",
 			"items": [{
 					"id": "11",
 					"rev": 1,
@@ -49,6 +50,7 @@
 			"name": "Adminiszráció",
 			"link": "#",
 			"icon": "image1",
+			"menuType": "ADMIN",
 			"items": [{
 					"id": "21",
 					"rev": 1,
@@ -69,6 +71,7 @@
 			"name": "Kapcsolatok",
 			"link": "#",
 			"icon": "image1",
+			"menuType": "OTHER",
 			"items": [
 					{"id": "31",
 					"rev": 1,
