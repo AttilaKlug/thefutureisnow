@@ -81,43 +81,7 @@
 					}]
 		}
 	],
-	"message":[{
-		"id": "1",
-		"rev": 1,
-		"userId": "user0",
-		"senderId": "user1",
-		"senderName": "Brad Diesel",
-		"senderDate": "2020-11-11T13:23:44",
-		"message": "Call me whenever you can...",
-		"read": false
-	},{
-		"id": "2",
-		"rev": 1,
-		"userId": "user0",
-		"senderId": "user8",
-		"senderName": "John Pierce",
-		"senderDate": "2020-11-11T13:23:44",
-		"message": "I got your message bro",
-		"read": false
-	},{
-		"id": "4",
-		"rev": 1,
-		"userId": "user0",
-		"senderId": "user6",
-		"senderName": "Administrator",
-		"senderDate": "2020-11-11T13:23:44",
-		"message": "Hol vagy? lemaradsz a buliról :D",
-		"read": false
-	},{
-		"id": "5",
-		"rev": 1,
-		"userId": "user0",
-		"senderId": "user7",
-		"senderName": "Allen breadly",
-		"senderDate": "2020-11-11T13:23:44",
-		"message": "Stipi stopi...",
-		"read": false
-	}],
+	
 	"notification":{
 		"list": [
 			{"nType": "MESSAGE", "count": 1},
