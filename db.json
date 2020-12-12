@@ -125,7 +125,7 @@
 			{"nType": "REPORT" , "count": 15}
 			],
 		"count" : 18
-	}
+	},
 	"queryresult": {
 		"draw":10,
 		"recordsFiltered": 10,
