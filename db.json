@@ -100,7 +100,7 @@
 			"userId": "user0",
 			"senderId": "user1",
 			"senderName": "Brad Diesel",
-			"senderDate": "2020-11-11T13:23:44",
+			"senderDate": "2020-01-01T23:28:56.782Z",
 			"message": "Call me whenever you can...",
 			"read": false
 		},{
@@ -109,7 +109,7 @@
 			"userId": "user0",
 			"senderId": "user8",
 			"senderName": "John Pierce",
-			"senderDate": "2020-11-11T13:23:44",
+			"senderDate": "2020-01-02T23:28:56.782Z",
 			"message": "I got your message bro",
 			"read": false
 		},{
@@ -118,7 +118,7 @@
 			"userId": "user0",
 			"senderId": "user6",
 			"senderName": "Administrator",
-			"senderDate": "2020-11-11T13:23:44",
+			"senderDate": "2020-01-03T23:28:56.782Z",
 			"message": "Hol vagy? lemaradsz a buliról :D",
 			"read": false
 		},{
@@ -127,7 +127,7 @@
 			"userId": "user0",
 			"senderId": "user7",
 			"senderName": "Allen breadly",
-			"senderDate": "2020-11-11T13:23:44",
+			"senderDate": "2020-01-04T23:28:56.782Z",
 			"message": "Stipi stopi...",
 			"read": false
 		}]
